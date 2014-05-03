@@ -1,0 +1,1 @@
+The program is written in C++. The idea behind it is to demonstrate use of structures and reading and writing from files

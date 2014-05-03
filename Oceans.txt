@@ -1,0 +1,10 @@
+Pacific Ocean;60,060,700;11.033
+Atlantic Ocean;29,637,900;9.219
+Indian Ocean;26,469,500;7.455
+Southern Ocean;7,848,300;5.625
+Arctic Ocean;5,427,000;4.632
+Mediterranean Sea;1,144,800;6.946
+Caribbean Sea;1,049,500;5.016
+South China Sea;895,400;4.773
+Bering Sea;884,900;3.787
+Gulf of Mexico;615,000;3.658
